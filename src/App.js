@@ -7,7 +7,12 @@ var emojiDictionary = {
   "😂": "Laughing",
   "😁": " Beaming Face with Smiling Eyes",
   "❤": "A classic love heart emoji",
-  "👍": "thumbs up"
+  "👍": "thumbs up",
+  "🤣": " Rolling on the Floor Laughing",
+  "😉": "Winking Face",
+  "😇 ": "Smiling Face with Halo",
+  "🤩 ": "Star-Struck",
+  "😜": " Winking Face with Tongue"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
